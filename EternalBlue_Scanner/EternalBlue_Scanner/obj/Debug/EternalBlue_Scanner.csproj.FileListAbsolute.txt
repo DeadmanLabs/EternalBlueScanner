@@ -1,0 +1,10 @@
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\bin\Debug\EternalBlue_Scanner.exe.config
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\bin\Debug\EternalBlue_Scanner.exe
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\bin\Debug\EternalBlue_Scanner.pdb
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.csprojResolveAssemblyReference.cache
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.Form1.resources
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.Properties.Resources.resources
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.csproj.GenerateResource.Cache
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.csproj.CoreCompileInputs.cache
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.exe
+Z:\EternalBlue_Scanner\EternalBlue_Scanner\obj\Debug\EternalBlue_Scanner.pdb
